@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Liberation Sans";
+  src: url(../fonts/LiberationSans-Bold.ttf);
+  font-weight: bold;
+  }
+@font-face {
+  font-style: italic;
+  font-family: "Liberation Sans";
+  src: url(../fonts/LiberationSans-Bold-Italic.ttf);
+  font-weight: bold;
+  }
+@font-face {
+  font-family: "Liberation Mono";
+  src: url(../fonts/LiberationMono-Regular.ttf);
+  }
+@font-face {
+  font-family: "Liberation Serif";
+  src: url(../fonts/LiberationSerif-Bold.ttf);
+  font-weight: bold;
+  }
+@font-face {
+  font-family: "Liberation Serif";
+  src: url(../fonts/LiberationSerif-Regular.ttf);
+  }
+@font-face {
+  font-style: italic;
+  font-family: "Liberation Serif";
+  src: url(../fonts/LiberationSerif-Italic.ttf);
+  }
+@font-face {
+  font-family: "Liberation Sans";
+  src: url(../fonts/LiberationSans-Regular.ttf);
+  }
+@font-face {
+  font-family: "Petit Formal Script";
+  src: url(../fonts/PetitFormalScript-Regular.ttf);
+  }
+@font-face {
+  font-family: "Vinjeto Unikodo";
+  src: url(../fonts/piv-vinjetoj-webfont.ttf);
+  }

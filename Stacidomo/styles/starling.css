@@ -1,0 +1,230 @@
+.xxx {
+  background-color: Khaki;
+}
+.left {
+  text-indent: 0%;
+  text-align: left;
+}
+.right {
+  text-indent: 0%;
+  text-align: right;
+}
+.center {
+  text-indent: 0%;
+  text-align: center;
+}
+.faded {
+  font-size: smaller;
+  color: gray;
+}
+.smaller {
+  font-size: smaller;
+  line-height: 200%;
+}
+.halfline {
+  padding: 0.3em 0 0 0;
+  clear: both;
+}
+.piv {
+  color: black;
+  font-family: "Vinjeto Unikodo";
+}
+a:link {
+  text-decoration: none;
+  color: DarkBlue;
+}
+a:visited {
+  text-decoration: none;
+  color: DarkBlue;
+}
+a:active {
+  text-decoration: none;
+  color: DarkBlue;
+}
+a:hover {
+  text-decoration: none;
+  color: red;
+}
+a.button {
+  text-decoration: none;
+  border: 2px outset darkred;
+  color: black;
+  background: moccasin;
+  font-size: 60%;
+  font-family: "Liberation Sans", sans-serif;
+  position: relative;
+  bottom: 0.1em;
+}
+b {
+  color: DarkRed;
+}
+.idiom {
+  color: DarkGreen;
+}
+.cursive {
+  color: black;
+  font-family: "Petit Formal Script";
+  font-size: Smaller;
+  font-size: 0.9em;
+  line-height: 1.5em;
+}
+blockquote {
+  font-family: "Liberation Sans", sans-serif;
+  color: DarkRed;
+  font-size: 1em;
+  line-height: 1.2em;
+  text-indent: 0%;
+  text-align: justify;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+blockquote.attrib {
+  font-family: "Liberation Sans", sans-serif;
+  color: DarkRed;
+  font-size: 1em;
+  line-height: 1em;
+  text-indent: 0%;
+  text-align: right;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+blockquote.newspaper {  
+  font-family: "Liberation Serif", serif;
+  font-size: 1.1em;
+  line-height: 1.25em;
+  text-indent: 2em;
+  text-align: justify;  
+  text-indent: 0%;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+body {
+  font-family: "Liberation Serif", serif;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+code {
+  font-family: "Liberation Mono", monospace;
+  font-weight: inherit;
+  font-size: inherit;
+  color: DarkBlue;
+}
+div.illustration {
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+}
+h1 {
+  text-align: center;
+  font-family: "Liberation Sans", sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  color: DarkRed;
+}
+h2 {
+  text-align: center;
+  font-family: "Liberation Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: DarkRed;
+}
+h3 {
+  text-align: center;
+  font-family: "Liberation Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.25em;
+  color: DarkRed;
+}
+h4 {
+  text-align: center;
+  font-family: "Liberation Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  color: DarkRed;
+}
+h5 {
+  font-family: "Liberation Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  color: DarkRed;
+}
+img.break {
+  width: 25%;
+  text-align: center;
+}
+img.center {
+  width: 50%;
+  text-align: center;
+}
+img.vortaro {
+  float: right; 
+  max-width: 33%;
+  padding-left:1em;
+}
+.catalog_title {
+  font-size: larger;
+  font-weight: bold;
+}
+p.catalog_item {
+  padding-left: 2em;
+  text-indent: -2em;  
+}
+p {
+  font-family: "Liberation Serif", serif;
+  font-size: 1.1em;
+  line-height: 1.25em;
+  text-indent: 2em;
+  text-align: justify;
+}
+p.reference {
+  font-family: "Liberation Sans", sans-serif;
+  text-indent: 0%;
+  font-size: 1em;
+}
+p.image {
+  font-family: "Liberation Sans", sans-serif;
+  font-size: 1em;
+  line-height: 1.1em;
+  color: DarkRed;
+  text-indent: 0%;
+  text-align: center;
+}
+p.dingbats {
+  font-family: "Liberation Sans", sans-serif;
+  font-size: 1.3em;
+  line-height: 1.3em;
+  color: DarkRed;
+  text-indent: 0%;
+  text-align: center;
+}
+sub.chem {
+  font-size: 50%;
+}
+ul {
+  list-style-type: none;
+  font-size: 98%;
+}
+p.table_head {
+  text-align: center;
+  font-family: "Liberation Sans", sans-serif;
+  font-size: small;
+  line-height: 70%;
+  color: DarkRed;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Liberation Sans", sans-serif;
+  font-size: small;
+  line-height: 100%;
+  color: DarkRed;
+}
+th {
+  text-align: center;
+}
+tr {
+  text-align: left;
+}
+td {
+  text-align: left;
+}

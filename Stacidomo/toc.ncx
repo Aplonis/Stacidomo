@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eo">
+  <head>
+    <meta content="65271384-3cd0-4565-870a-b38077d41935" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.62.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Stacidomo</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kovrilo</text>
+      </navLabel>
+      <content src="cover.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Titola Paĝo</text>
+      </navLabel>
+      <content src="Titola_Pagxo.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Steloj kaj Konstelacioj</text>
+      </navLabel>
+      <content src="Stelaro.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Elangligitaj Nomoj</text>
+      </navLabel>
+      <content src="CDS_01-T.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Ĉapitro 1</text>
+      </navLabel>
+      <content src="CDS_01-01.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Ĉapitro 2</text>
+      </navLabel>
+      <content src="CDS_01-02.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Ĉapitro 3</text>
+      </navLabel>
+      <content src="CDS_01-03.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Ĉapitro 4</text>
+      </navLabel>
+      <content src="CDS_01-04.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Ĉapitro 5</text>
+      </navLabel>
+      <content src="CDS_01-05.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Ĉapitro 6</text>
+      </navLabel>
+      <content src="CDS_01-06.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Ĉapitro 7</text>
+      </navLabel>
+      <content src="CDS_01-07.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Ĉapitro 8</text>
+      </navLabel>
+      <content src="CDS_01-08.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Ĉapitro 9</text>
+      </navLabel>
+      <content src="CDS_01-09.xhtml"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Ĉapitro 10</text>
+      </navLabel>
+      <content src="CDS_01-10.xhtml"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Ĉapitro 11</text>
+      </navLabel>
+      <content src="CDS_01-11.xhtml"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Ĉapitro 12</text>
+      </navLabel>
+      <content src="CDS_01-12.xhtml"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Ĉapitro 13</text>
+      </navLabel>
+      <content src="CDS_01-13.xhtml"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Ĉapitro 14</text>
+      </navLabel>
+      <content src="CDS_01-14.xhtml"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Ĉapitro 15</text>
+      </navLabel>
+      <content src="CDS_01-15.xhtml"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>Ĉapitro 16</text>
+      </navLabel>
+      <content src="CDS_01-16.xhtml"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Ĉapitro 17</text>
+      </navLabel>
+      <content src="CDS_01-17.xhtml"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>Ĉapitro 18</text>
+      </navLabel>
+      <content src="CDS_01-18.xhtml"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Ĉapitro 19</text>
+      </navLabel>
+      <content src="CDS_01-19.xhtml"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Ĉapitro 20</text>
+      </navLabel>
+      <content src="CDS_01-20.xhtml"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>Ĉapitro 21</text>
+      </navLabel>
+      <content src="CDS_01-21.xhtml"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>Ĉapitro 22</text>
+      </navLabel>
+      <content src="CDS_01-21.xhtml"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>Ĉapitro 23</text>
+      </navLabel>
+      <content src="CDS_01-23.xhtml"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>Ĉapitro 24</text>
+      </navLabel>
+      <content src="CDS_01-24.xhtml"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Ĉapitro 25</text>
+      </navLabel>
+      <content src="CDS_01-25.xhtml"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Ĉapitro 26</text>
+      </navLabel>
+      <content src="CDS_01-26.xhtml"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Ĉapitro 27</text>
+      </navLabel>
+      <content src="CDS_01-27.xhtml"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Ĉapitro 28</text>
+      </navLabel>
+      <content src="CDS_01-28.xhtml"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>Ĉapitro 29</text>
+      </navLabel>
+      <content src="CDS_01-29.xhtml"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>Ĉapitro 30</text>
+      </navLabel>
+      <content src="CDS_01-30.xhtml"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>Ĉapitro 31</text>
+      </navLabel>
+      <content src="CDS_01-31.xhtml"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>Ĉapitro 32</text>
+      </navLabel>
+      <content src="CDS_01-32.xhtml"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>Ĉapitro 33</text>
+      </navLabel>
+      <content src="CDS_01-33.xhtml"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>Ĉapitro 34</text>
+      </navLabel>
+      <content src="CDS_01-34.xhtml"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>Ĉapitro 35</text>
+      </navLabel>
+      <content src="CDS_01-35.xhtml"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>Ĉapitro 36</text>
+      </navLabel>
+      <content src="CDS_01-36.xhtml"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>Vortaro</text>
+      </navLabel>
+      <content src="CDS_01-V.xhtml"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>Atribuoj</text>
+      </navLabel>
+      <content src="Atribuoj.xhtml"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>Katalogo</text>
+      </navLabel>
+      <content src="Katalogo.xhtml"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>Permesilo</text>
+      </navLabel>
+      <content src="Permesilo.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
