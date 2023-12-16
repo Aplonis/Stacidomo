@@ -3,8 +3,8 @@ Kunlabora projekto por traduki la anglalingvan sciencfikcian romanon "Way Statio
 
 ## Eldonejo Mistera Sturno
 
-La iniciinto estas Ĝan Ŭesli Starling en Usono. Traduk-rajta kontrakto celante la lingvon Esperanto ekzistas inter S-ro Starling kaj la hereda establo de Clifford D. Simak teme pri ties romano "Way Station". S-ro Starling sekve establis tiun ĉi git-arĥivon cele al daŭra polurado de lia traduko helpe de volontuloj. 
+[Ĝan Ŭesli Starling](https://eo.wikipedia.org/wiki/%C4%9Can_%C5%ACesli_Starling) en Usono inicis tiun ĉi projekton. Traduk-rajta kontrakto celante la lingvon Esperanto ekzistas inter S-ro Starling kaj la hereda establo de Clifford D. Simak teme pri ties romano "Way Station". Firma kondiĉo de la kontrakto postulas tute senpagan distribuadon. Publika disponejo troviĝas ĉe [esperanto.us](https://esperanto.us/indekso_CDS.html#Stacidomo).
 
-Firma kondiĉo de la kontrakto postulas tute senpagan distribuadon. Publika disponejo troviĝas ĉe [esperanto.us](https://esperanto.us).
+Tiu ĉi git-arĥivo celas al daŭra polurado de la koncerna traduko helpe de volontuloj. La teka formato pritraktata estas [EPUB'](https://eo.wikipedia.org/wiki/EPUB). Kunlaborantoj prefere uzu [Calibre'](https://calibre-ebook.com/) por redakti branĉojn de ĉefa teko.
 
 Por membriĝi al la traduka teamo, bonvolu anonci vin epoŝte: [gan@starling.us](mailto:gan@starling.us?subject=Stacidomo_GitHub).
