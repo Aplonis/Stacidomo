@@ -27,7 +27,7 @@
 }
 .piv {
   color: black;
-  font-family: "Vinjeto Unikodo";
+  font-family: "Vinjeto Unikodo", system-ui;
 }
 a:link {
   text-decoration: none;
@@ -63,7 +63,7 @@ b {
 }
 .cursive {
   color: black;
-  font-family: "Petit Formal Script";
+  font-family: "Petit Formal Script", cursive;
   font-size: Smaller;
   font-size: 0.9em;
   line-height: 1.5em;
@@ -94,7 +94,6 @@ blockquote.newspaper {
   line-height: 1.25em;
   text-indent: 2em;
   text-align: justify;  
-  text-indent: 0%;
   margin-left: 2em;
   margin-right: 2em;
 }
