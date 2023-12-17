@@ -1,0 +1,227 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Stacidomo</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Simak, Clifford D.">Clifford D. Simak</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">65271384-3cd0-4565-870a-b38077d41935</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>Mistera Sturno</dc:publisher>
+    <dc:subject>Scienca Fikcio</dc:subject>
+    <dc:language>eo</dc:language>
+    <dc:identifier opf:scheme="calibre">b5baed6c-d411-4220-97f1-4302701d9a59</dc:identifier>
+    <meta name="calibre:title_sort" content="Stacidomo"/>
+    <meta name="calibre:author_link_map" content="{&quot;Clifford D. Simak&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="6.0"/>
+    <meta name="cover" content="id16"/>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Titola_Pagxo.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Stelaro.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-T.xhtml" id="id43" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-01.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-02.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-03.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-04.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-05.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-06.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-07.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-08.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-09.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-10.xhtml" id="id44" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-11.xhtml" id="id45" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-12.xhtml" id="id46" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-13.xhtml" id="id47" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-14.xhtml" id="id48" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-15.xhtml" id="id50" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-16.xhtml" id="id51" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-17.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-18.xhtml" id="id52" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-19.xhtml" id="id53" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-20.xhtml" id="id54" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-21.xhtml" id="id55" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-22.xhtml" id="id56" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-23.xhtml" id="id58" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-24.xhtml" id="id59" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-25.xhtml" id="id60" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-26.xhtml" id="id61" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-27.xhtml" id="id91" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-28.xhtml" id="id97" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-29.xhtml" id="id98" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-30.xhtml" id="id108" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-31.xhtml" id="id109" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-32.xhtml" id="id117" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-33.xhtml" id="id139" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-34.xhtml" id="id140" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-35.xhtml" id="id141" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-36.xhtml" id="id142" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-Pri_la_Auxtoro.xhtml" id="id153" media-type="application/xhtml+xml"/>
+    <item href="CDS_01-V.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Atribuoj.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Katalogo.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Permesilo.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles/fonts.css" id="id4" media-type="text/css"/>
+    <item href="styles/starling.css" id="id7" media-type="text/css"/>
+    <item href="images/akcipitro.jpg" id="id63" media-type="image/jpeg"/>
+    <item href="images/akordiono.jpg" id="id114" media-type="image/jpeg"/>
+    <item href="images/alauxdo.jpg" id="id62" media-type="image/jpeg"/>
+    <item href="images/Aleksandro.jpg" id="id151" media-type="image/jpeg"/>
+    <item href="images/Andromedo_Alfa_Siraho.png" id="id129" media-type="image/png"/>
+    <item href="images/astero.jpg" id="id33" media-type="image/jpeg"/>
+    <item href="images/avelo.jpg" id="id143" media-type="image/jpeg"/>
+    <item href="images/bagagxoj.jpg" id="id64" media-type="image/jpeg"/>
+    <item href="images/barikado.jpg" id="id145" media-type="image/jpeg"/>
+    <item href="images/betulo.jpg" id="id65" media-type="image/jpeg"/>
+    <item href="images/bilardo.jpg" id="id146" media-type="image/jpeg"/>
+    <item href="images/binoklo.jpg" id="id66" media-type="image/jpeg"/>
+    <item href="images/Bovisto_Arkturo.png" id="id124" media-type="image/png"/>
+    <item href="images/braceletoj.jpg" id="id121" media-type="image/jpeg"/>
+    <item href="images/break.png" id="id17" media-type="image/png"/>
+    <item href="images/broko.jpg" id="id147" media-type="image/jpeg"/>
+    <item href="images/bufo.jpg" id="id100" media-type="image/jpeg"/>
+    <item href="images/button_atom.png" id="id18" media-type="image/png"/>
+    <item href="images/cervo.jpg" id="id112" media-type="image/jpeg"/>
+    <item href="images/cipripedio.jpg" id="id34" media-type="image/jpeg"/>
+    <item href="images/Clifford_Simak.jpg" id="id154" media-type="image/jpeg"/>
+    <item href="images/cover_Stacidomo.png" id="id16" media-type="image/png"/>
+    <item href="images/creative_commons.png" id="id19" media-type="image/png"/>
+    <item href="images/cxarumo.jpg" id="id67" media-type="image/jpeg"/>
+    <item href="images/cxerko.jpg" id="id68" media-type="image/jpeg"/>
+    <item href="images/cxifi.jpg" id="id118" media-type="image/jpeg"/>
+    <item href="images/diagramo.jpg" id="id116" media-type="image/jpeg"/>
+    <item href="images/Drako_Alfa.png" id="id123" media-type="image/png"/>
+    <item href="images/ekvacio.jpg" id="id115" media-type="image/jpeg"/>
+    <item href="images/fajlilo.jpg" id="id120" media-type="image/jpeg"/>
+    <item href="images/fal-martelilo.jpg" id="id133" media-type="image/jpeg"/>
+    <item href="images/falcxilo.jpg" id="id49" media-type="image/jpeg"/>
+    <item href="images/filiko.jpg" id="id125" media-type="image/jpeg"/>
+    <item href="images/fino.png" id="id20" media-type="image/png"/>
+    <item href="images/fosilio.jpg" id="id135" media-type="image/jpeg"/>
+    <item href="images/fusilo.jpg" id="id69" media-type="image/jpeg"/>
+    <item href="images/fusto.jpg" id="id93" media-type="image/jpeg"/>
+    <item href="images/gabloj.jpg" id="id70" media-type="image/jpeg"/>
+    <item href="images/galosxo.jpg" id="id136" media-type="image/jpeg"/>
+    <item href="images/GenUSGrant.jpg" id="id73" media-type="image/jpeg"/>
+    <item href="images/Georgio.png" id="id122" media-type="image/png"/>
+    <item href="images/ginsengo.jpg" id="id39" media-type="image/jpeg"/>
+    <item href="images/glavsaltulo.jpg" id="id32" media-type="image/jpeg"/>
+    <item href="images/hamako.jpg" id="id71" media-type="image/jpeg"/>
+    <item href="images/Hidro_Alfa.png" id="id126" media-type="image/png"/>
+    <item href="images/hojo.jpg" id="id148" media-type="image/jpeg"/>
+    <item href="images/hupo.jpg" id="id103" media-type="image/jpeg"/>
+    <item href="images/Iovao.jpg" id="id75" media-type="image/jpeg"/>
+    <item href="images/kanuo.jpg" id="id76" media-type="image/jpeg"/>
+    <item href="images/kaprimulgo.jpg" id="id144" media-type="image/jpeg"/>
+    <item href="images/kapsikoj.jpg" id="id77" media-type="image/jpeg"/>
+    <item href="images/kartocxa_latunajxo.jpg" id="id102" media-type="image/jpeg"/>
+    <item href="images/kastoro.jpg" id="id78" media-type="image/jpeg"/>
+    <item href="images/kobalt-blua.jpg" id="id119" media-type="image/jpeg"/>
+    <item href="images/kofro.jpg" id="id113" media-type="image/jpeg"/>
+    <item href="images/kreno.jpg" id="id79" media-type="image/jpeg"/>
+    <item href="images/krispo.jpg" id="id94" media-type="image/jpeg"/>
+    <item href="images/kulo.jpg" id="id101" media-type="image/jpeg"/>
+    <item href="images/kuniklo.jpg" id="id111" media-type="image/jpeg"/>
+    <item href="images/lilako.jpg" id="id95" media-type="image/jpeg"/>
+    <item href="images/Liro_Vego.png" id="id131" media-type="image/png"/>
+    <item href="images/lokomotivo.jpg" id="id81" media-type="image/jpeg"/>
+    <item href="images/lonicero.jpg" id="id37" media-type="image/jpeg"/>
+    <item href="images/manikeno.jpg" id="id80" media-type="image/jpeg"/>
+    <item href="images/mastodonto.jpg" id="id82" media-type="image/jpeg"/>
+    <item href="images/metronomo.jpg" id="id106" media-type="image/jpeg"/>
+    <item href="images/municioj.jpg" id="id99" media-type="image/jpeg"/>
+    <item href="images/muskedo.jpg" id="id83" media-type="image/jpeg"/>
+    <item href="images/muskoj.jpg" id="id134" media-type="image/jpeg"/>
+    <item href="images/Napoleon.jpg" id="id152" media-type="image/jpeg"/>
+    <item href="images/pagajo.jpg" id="id84" media-type="image/jpeg"/>
+    <item href="images/paruo.jpg" id="id85" media-type="image/jpeg"/>
+    <item href="images/Pegazo_Epsilona.png" id="id127" media-type="image/png"/>
+    <item href="images/peonio.jpg" id="id40" media-type="image/jpeg"/>
+    <item href="images/peplomo.jpg" id="id41" media-type="image/jpeg"/>
+    <item href="images/plusxa_urso.jpg" id="id155" media-type="image/jpeg"/>
+    <item href="images/prociono.jpg" id="id86" media-type="image/jpeg"/>
+    <item href="images/punto.jpg" id="id87" media-type="image/jpeg"/>
+    <item href="images/rabotilo.jpg" id="id89" media-type="image/jpeg"/>
+    <item href="images/rapiro.jpg" id="id105" media-type="image/jpeg"/>
+    <item href="images/Robinson_Crusoe.jpg" id="id137" media-type="image/jpeg"/>
+    <item href="images/roso.jpg" id="id138" media-type="image/jpeg"/>
+    <item href="images/sabro.jpg" id="id88" media-type="image/jpeg"/>
+    <item href="images/Sagitario.png" id="id132" media-type="image/png"/>
+    <item href="images/sciuro.jpg" id="id110" media-type="image/jpeg"/>
+    <item href="images/skalpado.jpg" id="id72" media-type="image/jpeg"/>
+    <item href="images/solidago.jpg" id="id42" media-type="image/jpeg"/>
+    <item href="images/stilzoj.jpg" id="id104" media-type="image/jpeg"/>
+    <item href="images/sxrauxb-sxlosilo.jpg" id="id149" media-type="image/jpeg"/>
+    <item href="images/tifeoj.jpg" id="id57" media-type="image/jpeg"/>
+    <item href="images/troti.gif" id="id25" media-type="image/gif"/>
+    <item href="images/ulmo.jpg" id="id96" media-type="image/jpeg"/>
+    <item href="images/Urseto_Alfa_Poluso.png" id="id128" media-type="image/png"/>
+    <item href="images/Ursinego_Zeta.png" id="id130" media-type="image/png"/>
+    <item href="images/ventomuelejoj.jpg" id="id107" media-type="image/jpeg"/>
+    <item href="images/verukoj.jpg" id="id36" media-type="image/jpeg"/>
+    <item href="images/Virginio.jpg" id="id90" media-type="image/jpeg"/>
+    <item href="images/Viskonsino.jpg" id="id74" media-type="image/jpeg"/>
+    <item href="images/vortaro.png" id="id21" media-type="image/png"/>
+    <item href="images/Xerxes.jpg" id="id150" media-type="image/jpeg"/>
+    <item href="fonts/LiberationMono-Regular.ttf" id="id10" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSans-Bold-Italic.ttf" id="id11" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSans-Bold.ttf" id="id12" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSans-Regular.ttf" id="id13" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSerif-Bold.ttf" id="id14" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSerif-Italic.ttf" id="id15" media-type="application/x-font-truetype"/>
+    <item href="fonts/LiberationSerif-Regular.ttf" id="id9" media-type="application/x-font-truetype"/>
+    <item href="fonts/PetitFormalScript-Regular.ttf" id="id30" media-type="application/x-font-truetype"/>
+    <item href="fonts/piv-vinjetoj-webfont.ttf" id="id92" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id3"/>
+    <itemref idref="id8"/>
+    <itemref idref="id31"/>
+    <itemref idref="id43"/>
+    <itemref idref="id"/>
+    <itemref idref="id24"/>
+    <itemref idref="id22"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id35"/>
+    <itemref idref="id38"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id23"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id58"/>
+    <itemref idref="id59"/>
+    <itemref idref="id60"/>
+    <itemref idref="id61"/>
+    <itemref idref="id91"/>
+    <itemref idref="id97"/>
+    <itemref idref="id98"/>
+    <itemref idref="id108"/>
+    <itemref idref="id109"/>
+    <itemref idref="id117"/>
+    <itemref idref="id139"/>
+    <itemref idref="id140"/>
+    <itemref idref="id141"/>
+    <itemref idref="id142"/>
+    <itemref idref="id153"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover"/>
+  </guide>
+</package>
