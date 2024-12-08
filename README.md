@@ -1,5 +1,5 @@
 # Stacidomo
-Kunlabora projekto por traduki la anglalingvan sciencfikcian romanon "Way Station" de Clifford D. Simak en Esperanton.
+Kunlabora projekto por traduki la anglalingvan sciencfikcian romanon "Way Station" de Clifford D. Simak en Esperanto.
 
 ## Eldonejo Mistera Sturno
 
